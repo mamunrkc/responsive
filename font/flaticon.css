@@ -1,0 +1,44 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?1e518d3124ecdb44facdb0d5f43f22c1") format("truetype"),
+url("./flaticon.woff?1e518d3124ecdb44facdb0d5f43f22c1") format("woff"),
+url("./flaticon.woff2?1e518d3124ecdb44facdb0d5f43f22c1") format("woff2"),
+url("./flaticon.eot?1e518d3124ecdb44facdb0d5f43f22c1#iefix") format("embedded-opentype"),
+url("./flaticon.svg?1e518d3124ecdb44facdb0d5f43f22c1#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-chat:before {
+    content: "\f101";
+}
+.flaticon-cup-of-hot-coffee:before {
+    content: "\f102";
+}
+.flaticon-edit:before {
+    content: "\f103";
+}
+.flaticon-folder:before {
+    content: "\f104";
+}
+.flaticon-heart:before {
+    content: "\f105";
+}
+.flaticon-layers:before {
+    content: "\f106";
+}
+.flaticon-settings:before {
+    content: "\f107";
+}
+.flaticon-users:before {
+    content: "\f108";
+}
